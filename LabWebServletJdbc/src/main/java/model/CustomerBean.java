@@ -5,6 +5,7 @@ public class CustomerBean {
 	private byte[] password;
 	private String email;
 	private java.util.Date birth;
+	private String oioi;
 
 	private String haoyung;
 	@Override
