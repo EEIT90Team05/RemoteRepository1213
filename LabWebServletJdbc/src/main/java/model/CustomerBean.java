@@ -3,15 +3,22 @@ package model;
 public class CustomerBean {
 	private String custid;
 	private byte[] password;
-	private String email;		
+	private String email;
 	private java.util.Date birth;
-	private String test111;
+	private String oioi;
+
 	private String haoyung;
-	
-    @Override
+	@Override
 	
 	public String toString() {
 		return "CustomerBean [custid=" + custid + ", email=" + email + ", birth=" + birth + "]";
+	}
+	public String getHaoyung() {
+		return haoyung;
+	}
+	public void setHaoyung(String haoyung) {
+		this.haoyung = haoyung;
+
 	}
 
 	public String getCustid() {
