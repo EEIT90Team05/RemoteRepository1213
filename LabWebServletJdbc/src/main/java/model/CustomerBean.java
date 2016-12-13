@@ -4,7 +4,10 @@ public class CustomerBean {
 	private String custid;
 	private byte[] password;
 	private String email;
+
 	private java.util.Date birth;
+	private String test;
+
 	@Override
 	public String toString() {
 		return "CustomerBean [custid=" + custid + ", email=" + email + ", birth=" + birth + "]";
