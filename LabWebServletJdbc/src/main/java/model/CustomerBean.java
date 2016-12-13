@@ -9,6 +9,7 @@ public class CustomerBean {
 	public String toString() {
 		return "CustomerBean [custid=" + custid + ", email=" + email + ", birth=" + birth + "]";
 	}
+
 	public String getCustid() {
 		return custid;
 	}
