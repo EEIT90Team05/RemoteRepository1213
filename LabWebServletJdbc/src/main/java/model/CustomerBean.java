@@ -4,9 +4,9 @@ public class CustomerBean {
 	private String custid;
 	private byte[] password;
 	private String email;
-
 	private java.util.Date birth;
-	private String test;
+	private String test111;
+	private String haoyung;
 
 	@Override
 	public String toString() {
