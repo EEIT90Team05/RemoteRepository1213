@@ -9,6 +9,7 @@ public class CustomerBean {
 	private String haoyung;
 
 	@Override
+	
 	public String toString() {
 		return "CustomerBean [custid=" + custid + ", email=" + email + ", birth=" + birth + "]";
 	}
