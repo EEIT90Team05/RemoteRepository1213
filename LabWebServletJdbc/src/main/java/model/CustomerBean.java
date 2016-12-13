@@ -5,9 +5,17 @@ public class CustomerBean {
 	private byte[] password;
 	private String email;
 	private java.util.Date birth;
+	private String haoyung;
 	@Override
+	
 	public String toString() {
 		return "CustomerBean [custid=" + custid + ", email=" + email + ", birth=" + birth + "]";
+	}
+	public String getHaoyung() {
+		return haoyung;
+	}
+	public void setHaoyung(String haoyung) {
+		this.haoyung = haoyung;
 	}
 	public String getCustid() {
 		return custid;
