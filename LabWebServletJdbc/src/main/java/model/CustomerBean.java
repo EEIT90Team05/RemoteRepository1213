@@ -5,6 +5,7 @@ public class CustomerBean {
 	private byte[] password;
 	private String email;
 	private java.util.Date birth;
+
 	private String haoyung;
 	@Override
 	
@@ -17,6 +18,7 @@ public class CustomerBean {
 	public void setHaoyung(String haoyung) {
 		this.haoyung = haoyung;
 	}
+
 	public String getCustid() {
 		return custid;
 	}
