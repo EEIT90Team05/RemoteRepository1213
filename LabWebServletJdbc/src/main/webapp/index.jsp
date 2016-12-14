@@ -6,14 +6,20 @@
 <head>
 <h1>劉仁楷</h1>
 
+
 <h1>曾皓</h1>
 
 
 <h1>范鈞源</h1>
 <h1>楊青龍</h1>
+
 <h1>洪暠轅</h1>
 
 
 
+
+<h3>Welcome ${user.email}</h3>
+<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp"/>">Product</a></h3>
 </body>
 </html>
