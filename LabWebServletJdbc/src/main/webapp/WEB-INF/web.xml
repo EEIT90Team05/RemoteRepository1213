@@ -28,6 +28,7 @@
 		<res-auth>Container</res-auth>
 		<res-sharing-scope>Unshareable</res-sharing-scope>
 	</resource-ref>
+
 	<welcome-file-list>
 		<welcome-file>index.jsp</welcome-file>
 	</welcome-file-list>
