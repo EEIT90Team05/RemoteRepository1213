@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Context>
+<<<<<<< HEAD
 	<Resource name="jdbc/xxx" auth="Container" type="javax.sql.DataSource"
+=======
+	<Resource name="jdbc/xxx" auth="Container" type="javax.sql.DataSource"
+>>>>>>> branch 'master' of https://github.com/EEIT90Team05/RemoteRepository1213.git
                maxTotal="100" maxIdle="30" maxWaitMillis="10000"
                username="sa" password="passw0rd"
                driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"

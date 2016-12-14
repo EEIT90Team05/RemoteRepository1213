@@ -27,7 +27,11 @@
 		<res-type>javax.sql.DataSource</res-type>
 		<res-auth>Container</res-auth>
 		<res-sharing-scope>Unshareable</res-sharing-scope>
+<<<<<<< HEAD
 	</resource-ref>
+=======
+	</resource-ref>
+>>>>>>> branch 'master' of https://github.com/EEIT90Team05/RemoteRepository1213.git
 	<welcome-file-list>
 		<welcome-file>index.jsp</welcome-file>
 	</welcome-file-list>
