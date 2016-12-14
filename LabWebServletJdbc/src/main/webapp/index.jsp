@@ -5,13 +5,6 @@
 <html>
 <head>
 <h1>劉仁楷</h1>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Home</title>
-</head>
-<body>
-
-<<<<<<< HEAD
-
 
 <h1>曾皓</h1>
 
